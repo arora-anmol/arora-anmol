@@ -1,6 +1,6 @@
 
 
-![Alt Text](https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA)
+![Alt Text](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 
 <!--
