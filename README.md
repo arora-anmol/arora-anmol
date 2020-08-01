@@ -13,7 +13,7 @@ const me = {
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=arora-anmol8&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=arora-anmol&show_icons=true&count_private=true" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-anmol&layout=compact&hide=python" />
 -->
