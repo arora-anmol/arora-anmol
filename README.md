@@ -1,6 +1,6 @@
 ### Hi, I'm Anmol :wave:
 
-I'm a 4th year computer engineering student at the University of Waterloo. I am currently working as a SWE Intern on the Network Security team at Salesforce. I enjoy working on interesting problems and believe in continuous learning. 
+I'm a 4th year computer engineering student at the University of Waterloo. I am currently working as a SWE Intern on the Network Security team at Salesforce. I enjoy working on interesting/challenging problems and believe in continuous learning. 
 
 ```typescript
 const me = {
