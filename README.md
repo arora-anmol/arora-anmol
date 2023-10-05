@@ -1,6 +1,10 @@
 ### Hi, I'm Anmol :wave:
 
-Computer Engineering @2021
+Computer Engineering 2021 @uWaterloo
+
+I currently lead offchain infrastructure for a new L1 blockchain, building on Cosmos. Previously, I worked on Network Security team at Salesforce. I built systems for threat monitoring and improved developer experience with hyperforce product
+
+
 
 ```typescript
 const me = {
