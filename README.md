@@ -2,7 +2,7 @@
 
 Computer Engineering 2021 @uWaterloo
 
-I currently lead offchain backend/infrastructure for a new L1 blockchain, building on Cosmos. Previously, I worked on Network Security team at Salesforce
+Living on chain now. I previously led offchain engineering for L1 blockchain, building on Cosmos. Before that, I did Network Security at Salesforce
 
 
 ```typescript
