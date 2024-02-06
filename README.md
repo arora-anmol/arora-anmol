@@ -1,10 +1,5 @@
 ### Hi, I'm Anmol :wave:
 
-Computer Engineering 2021 @uWaterloo
-
-Living on chain
-
-
 ```typescript
 const me = {
   username:  "arora-anmol",
